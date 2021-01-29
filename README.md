@@ -5,7 +5,7 @@ Java Project
 authorized persons to views crop information.</p>
 
 Home Page
-<img src="Home_Page.avi">
+<img src="Home_page.page">
 Registration Page 
 <img src="Registration_Page.png">
 Database Page
